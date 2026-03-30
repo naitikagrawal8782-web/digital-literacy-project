@@ -1,0 +1,16 @@
+Cybercrime Prevention Tips
+
+- Always verify email sender before clicking any link
+- Do not click on unknown or suspicious links
+- Use strong and unique passwords for all accounts
+- Enable two-factor authentication (2FA)
+- Never share OTP, passwords, or personal details
+- Keep your software and apps updated
+- Avoid using public Wi-Fi for sensitive transactions
+- Install antivirus and security software
+- Regularly check your bank statements and accounts
+- Report any suspicious activity immediately
+
+Helpline:
+- National Cybercrime Portal: https://cybercrime.gov.in
+- Helpline Number: 1930
